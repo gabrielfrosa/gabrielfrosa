@@ -24,6 +24,7 @@ Sou um entusiasta de tecnologia e desenvolvedor apaixonado, especializado na pla
 ## Como Entrar em Contato
 - 📧 Email: dev.gabriel.f.rosa@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/gabriel-f-rosa/
+- 📱 Celular: (51) 9 9987 4826
 
 ## Interesses Pessoais
 Além da programação, sou apaixonado por jogos e por me atualizar no mundo do hardware.
