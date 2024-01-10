@@ -12,8 +12,8 @@ Sou um entusiasta de tecnologia e desenvolvedor apaixonado, especializado na pla
 - ASP.NET MVC, Web API, Windows Apps
 - Entity Framework, LINQ, Dapper
 - SQL Server
-- Front-end com HTML, CSS, JavaScript
-- Testes Unitários
+- Front-end com HTML, CSS, JavaScript, TypeScript e React
+- Testes Unitários com xUnit, Moq, Jest
 - Controle de Versão com Git e TFS
 
 ## Tecnologias que Estou Atualmente Explorando
