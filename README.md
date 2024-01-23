@@ -1,5 +1,6 @@
 # Olá, eu sou Gabriel Rosa 👋
 
+## Experiências
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="csharp logo"/>
     <img width="8" />    
@@ -32,6 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="46" alt="vscode logo"/>
 </div>
 
+## Familiaridade
 <div align="left">    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="46" alt="docker logo"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="46" alt="kubernetes logo"/>          
