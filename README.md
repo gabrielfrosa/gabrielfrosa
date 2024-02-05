@@ -43,8 +43,8 @@
 Sou um entusiasta de tecnologia e desenvolvedor apaixonado, especializado na plataforma .NET.
 
 ## Formação e Experiência
+- 👨‍💻 4 anos como Desenvolvedor
 - 🎓 Técnico em Mecâtronica
-- 👨‍💻 4 anos e meio de Dev
 
 ## Habilidades
 - Desenvolvimento em C# e .NET
